@@ -27,6 +27,6 @@
 
 1. Inside of `week_1`, create a new directory for each day i.e. `monday`, `tuesday`, ... `friday`.
 
-1. Inside each day, create directorides for the different sections each day i.e. `morning_exercise`, `morning_lecture`, `morning_lab`, `afternoon_lecture`, `afternoon_lab`, `homework`. Remember that Wednesday is a half day. 
+1. Inside each day, create directories for the different sections each day i.e. `morning_exercise`, `morning_lecture`, `morning_lab`, `afternoon_lecture`, `afternoon_lab`, `homework`. Remember that Wednesday is a half day. 
 
 ### Now we have created a nice organized file structure for success in SEI
